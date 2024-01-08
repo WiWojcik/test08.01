@@ -1,0 +1,26 @@
+.one{
+    color: coral;
+}
+.two{
+    font-size: 2rem;
+}
+.three{
+    font-weight: 900;
+}
+.four{
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+}
+h1{
+    text-align: center;
+    font-size: 2rem;
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(159, 7, 7);
+    border-style: outset; 
+    border-width: 3rem;
+    border-color: aqua;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    
+}
+html{font-size: 30px;}
